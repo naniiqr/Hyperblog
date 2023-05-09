@@ -11,8 +11,8 @@ body {
     width: 70%;
     padding: 01em;
     text-align: left;
-    border: 1px solid peachpuff;
-    margin: 0 auto;
+    border: 2px solid peachpuff;
+    margin: 18px auto;
 }
 
 #container h1 {
@@ -23,6 +23,19 @@ body {
 
 #Cabecera {
 
+    background: #33A;
     font-size: 30px;
-    color:black;
+    color: whitesmoke;
+    margin: 0;
+    padding: 1em;
+    font-weight: bold;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+#Cabecera #tagline {
+
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    
 }
